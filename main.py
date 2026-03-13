@@ -175,7 +175,7 @@ if check ==5:
     user.update_det()
 
 if check == 6:
-    user.delete()
+    user.delete() 
 
 
 #give the whole code to chatgpt and give this ---> "improvise the code and also use streamlit for implementing the code"
