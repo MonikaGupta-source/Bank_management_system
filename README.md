@@ -69,6 +69,7 @@ streamlit run frontend.py
 ## 👩‍💻 Author
 
 **Monika Gupta**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/monika-gupta-9ab3a6335)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:monika8920193@gmail.com)
 
